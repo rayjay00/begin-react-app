@@ -6,6 +6,7 @@ folder build
 
 @http
 get /api
+get /sdfsdf
 
 @tables
 data
